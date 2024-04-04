@@ -9,7 +9,7 @@ Welcome to CodeEngine! We are a team dedicated to helping engineering students s
 <h2>Getting Started</h2>
 To start using our resources, simply navigate to our website or repository. All of our tutorials, guides, and projects are available to anyone who is interested in learning how to code and succeed in the tech industry.
 <h2>Website Link</h2>
-<p></p>
+<p>https://codersbreakers.github.io/codeengine.github.io/</p>
 
 <h2>Contributions</h2>
 If you would like to contribute or have any ideas for improvements, feel free to fork the repository and create a pull request.
